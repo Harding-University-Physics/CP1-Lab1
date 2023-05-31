@@ -1,7 +1,3 @@
-channels:
-  - astropy
-  - defaults
-  - conda-forge
 dependencies:
   - python
   - jupyter
