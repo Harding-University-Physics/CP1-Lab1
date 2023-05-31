@@ -31,6 +31,12 @@
 		// VS Code Settings Changes
 		"vscode": {
 
+			// Settings
+			"settings": {
+				"workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+				"workbench.iconTheme": "vscode-icons"
+			},
+
 			// Additional Extensions
 			"extensions": [
 				"dbaeumer.vscode-eslint",
