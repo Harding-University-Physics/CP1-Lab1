@@ -33,12 +33,14 @@
 
 			// Additional Extensions
 			"extensions": [
+				"dbaeumer.vscode-eslint",
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"ms-toolsai.jupyter"
+				"ms-toolsai.jupyter",
+				"vscode-icons-team.vscode-icons"
 			]
 		}
-	},
+	}
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
