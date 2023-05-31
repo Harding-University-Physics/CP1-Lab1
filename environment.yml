@@ -3,6 +3,8 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3
+  - python=3.11
+  - jupyter
+  - ipykernel
   - numpy
   - astropy
