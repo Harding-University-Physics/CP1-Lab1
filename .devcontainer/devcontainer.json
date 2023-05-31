@@ -26,14 +26,7 @@
 	"customizations": {
 
 		// Changes to CodeSpaces
-		"codespaces": {
-
-			// Automatically Opened Files
-			"openFiles": [
-				"README.md",
-				"CP1-Lab1-Notebook.ipynb"
-			]
-		},
+		"codespaces": {},
 
 		// VS Code Settings Changes
 		"vscode": {
